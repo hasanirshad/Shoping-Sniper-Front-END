@@ -1,8 +1,10 @@
 .header {
   background: $off-black;
   color: white;
-  margin-bottom: $m-size;
   padding: $m-size 0;
+  height: auto;
+  width: 100%;
+  float: left;
 }
 
 .header__title {
@@ -19,6 +21,14 @@
 
 @media (min-width: $desktop-breakpoint) {
   .header {
-    margin-bottom: $xl-size;
+    //margin-bottom: $xl-size;
   }
+}
+.marqueetext{
+
+  float: left;
+  width: 1334px;
+  height:  22px;
+  position:  relative;
+
 }

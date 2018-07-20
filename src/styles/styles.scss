@@ -1,9 +1,10 @@
 @import './base/settings';
 @import './base/base';
-@import './components/add-option';
-@import './components/button';
-@import './components/container';
 @import './components/header';
-@import './components/modal';
-@import './components/option';
-@import './components/widget';
+@import './components/sidebar-slider';
+@import './components/containers';
+@import "./components/menu";
+@import "./components/_banner.SCSS";
+@import "./components/_content-container.SCSS";
+@import "./components/_ticker.SCSS";
+@import "./components/_discountslide.SCSS";
