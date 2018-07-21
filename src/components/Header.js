@@ -9,8 +9,7 @@ const Header = (props) => (
 
           <div className="topnav" id="myTopnav">
               <a href="#home" className="active">Home</a>
-              <a href="#news">News</a>
-              <a href="#contact">Contact</a>
+              <a href="#myist">My List</a>
               <a href="#about">About</a>
               <a href="javascript:void(0);" className="icon" onClick={myFunction}>
                   <i className="fa fa-bars"></i>

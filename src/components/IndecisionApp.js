@@ -10,7 +10,6 @@ export default class IndecisionApp extends React.Component {
 
     return (
       <div className="flowtoleft main">
-        <SideBar/>
         <Header/>
           <Banner/>
           <ContentContainer/>

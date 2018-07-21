@@ -40,8 +40,8 @@ class SideBar extends React.Component
                         <a href="#">Clients</a>
                         <a href="#">Contact</a>
                     </div>
-                    <span className="flowtoleft" onClick={this.openNav}>&#9776;</span>
-                    <marquee behavior="scroll" direction="left" className="marqueetext">Your scrolling text goes here</marquee>
+                    <span className="filterbutton" onClick={this.openNav}>&#9776; Filters</span>
+                    <marquee behavior="scroll" direction="left" className="marqueetext">Special Offers -Paid Content-</marquee>
 
 
                 </div>
