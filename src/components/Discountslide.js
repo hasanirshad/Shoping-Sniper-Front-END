@@ -20,9 +20,7 @@ export default class Discountslide extends React.Component{
                     {
                         this.state.image.map((image) => <Adcard key={image} status={image}  />)
                     }
-                    {/*<Adcard*/}
-                        {/*status={'helloo'}*/}
-                    {/*/>*/}
+
                 </div>
             </div>
         );
