@@ -6,7 +6,7 @@ export default class Discountslide extends React.Component{
     constructor(props){
         super(props);
        this.state = {
-           image:['this' , 'remain' , 'for' , 'image']
+           image:['this' , 'is' , 'for' , 'image']
        }
 }
 
