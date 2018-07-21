@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8902a91-c797-4067-b2f5-76637db8561d" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Discountslide.js" afterPath="$PROJECT_DIR$/src/components/Discountslide.js" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/components/Discountslide.js" afterPath="$PROJECT_DIR$/src/components/Discountslide.js" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Discountslide.js" afterPath="$PROJECT_DIR$/src/components/Discountslide.js" />
+>>>>>>> 696a484852e8c4fb872b987b7a20127cf7eb6025
+=======
+>>>>>>> 070eee8a5764b5a9a45ddfafab23b416a800264f
+>>>>>>> 34e5210c58d95c3c7d5277b88faea362c57970cf
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,8 +86,21 @@
       <file leaf-file-name="Discountslide.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Discountslide.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="51">
+              <caret line="3" column="59" lean-forward="true" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+=======
             <state relative-caret-position="136">
+<<<<<<< HEAD
               <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+=======
+<<<<<<< HEAD
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+>>>>>>> 696a484852e8c4fb872b987b7a20127cf7eb6025
+=======
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+>>>>>>> 070eee8a5764b5a9a45ddfafab23b416a800264f
+>>>>>>> 34e5210c58d95c3c7d5277b88faea362c57970cf
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -225,14 +251,38 @@
       <workItem from="1531669736674" duration="10438000" />
       <workItem from="1532021422721" duration="4388000" />
       <workItem from="1532097166552" duration="18192000" />
+<<<<<<< HEAD
+      <workItem from="1532174370446" duration="5512000" />
+=======
       <workItem from="1532174370446" duration="4159000" />
+<<<<<<< HEAD
+      <workItem from="1532183710654" duration="155000" />
+>>>>>>> 696a484852e8c4fb872b987b7a20127cf7eb6025
+=======
       <workItem from="1532183710654" duration="207000" />
+<<<<<<< HEAD
       <workItem from="1532184408441" duration="83000" />
+=======
+      <workItem from="1532184408441" duration="7000" />
+>>>>>>> 070eee8a5764b5a9a45ddfafab23b416a800264f
+>>>>>>> 34e5210c58d95c3c7d5277b88faea362c57970cf
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="37698000" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="38761000" />
+=======
+    <option name="totallyTimeSpent" value="37563000" />
+>>>>>>> 696a484852e8c4fb872b987b7a20127cf7eb6025
+=======
+    <option name="totallyTimeSpent" value="37622000" />
+>>>>>>> 070eee8a5764b5a9a45ddfafab23b416a800264f
+>>>>>>> 34e5210c58d95c3c7d5277b88faea362c57970cf
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -518,8 +568,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Discountslide.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="51">
+          <caret line="3" column="59" lean-forward="true" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+=======
         <state relative-caret-position="136">
+<<<<<<< HEAD
           <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+=======
+<<<<<<< HEAD
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+>>>>>>> 696a484852e8c4fb872b987b7a20127cf7eb6025
+=======
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+>>>>>>> 070eee8a5764b5a9a45ddfafab23b416a800264f
+>>>>>>> 34e5210c58d95c3c7d5277b88faea362c57970cf
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
