@@ -4,7 +4,11 @@ import SideBar from "./SideBar";
 import Banner from "./Banner";
 import ContentContainer from "./ContentContainer";
 
+
+
 export default class IndecisionApp extends React.Component {
+
+
 
   render() {
 

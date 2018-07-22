@@ -1,6 +1,7 @@
 import React from "react";
 
 
+
 class SideBar extends React.Component
 {
     constructor(props){
@@ -41,6 +42,7 @@ class SideBar extends React.Component
                         <a href="#">Contact</a>
                     </div>
                     <span className="filterbutton" onClick={this.openNav}>&#9776; Filters</span>
+
                     <marquee behavior="scroll" direction="left" className="marqueetext">Special Offers -Paid Content-</marquee>
 
 

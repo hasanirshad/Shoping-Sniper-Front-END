@@ -7,7 +7,7 @@ class ContentContainer extends  React.Component{
         super(props);
 
         this.state = {
-            TagName:['Trending', 'Latest'],
+            TagName:['Trending']
         }
     }
 
