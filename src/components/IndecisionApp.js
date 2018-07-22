@@ -15,7 +15,7 @@ export default class IndecisionApp extends React.Component {
     return (
       <div className="flowtoleft main">
         <Header/>
-          <Banner/>
+          {/*<Banner/>*/}
           <ContentContainer/>
       </div>
     );

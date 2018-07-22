@@ -33,7 +33,7 @@ class SideBar extends React.Component
     render() {
 
         return (
-                <div className="flowtoleft">
+                <div className="fullcontainer">
                     <div id="mySidenav" className="sidenav" style={ this.state.active ? {width:'250px'} : null }>
                         <a className="closebtn"  onClick={this.closeNav}>&times;</a>
                         <a href="#">About</a>
@@ -41,9 +41,8 @@ class SideBar extends React.Component
                         <a href="#">Clients</a>
                         <a href="#">Contact</a>
                     </div>
-                    <span className="filterbutton" onClick={this.openNav}>&#9776; Filters</span>
-
                     <marquee behavior="scroll" direction="left" className="marqueetext">Special Offers -Paid Content-</marquee>
+                    <span className="filterbutton" onClick={this.openNav}>&#9776;</span>
 
 
                 </div>
